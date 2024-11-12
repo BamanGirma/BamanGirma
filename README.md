@@ -10,4 +10,4 @@ Hey Amanuel Here 👋
 
 #### Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nodejs,ts,express,nest,mongo,postgres,redux,docker,next,html,css,git,vercel,firebase,cpp,java,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nodejs,ts,express,mongo,postgres,mysql,redux,docker,next,html,css,git,vercel,firebase,cpp,java,postman,netlify&theme=dark)](https://skillicons.dev)
